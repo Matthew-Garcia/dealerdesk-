@@ -1,8 +1,7 @@
 # DealerDesk — Service Desk
 
 A repair order / service ticket management app modeled on the workflows behind
-dealership management systems (DMS) — the category of software companies like
-Reynolds and Reynolds build for auto dealerships and service departments.
+dealership management systems (DMS).
 
 Built after five years working hands-on as an automotive electronics diagnostics
 technician. This project translates that shop-floor workflow (customer intake,
